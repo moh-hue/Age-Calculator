@@ -7,5 +7,5 @@
 - **CSS**
 - **Flexbox**
 - **CSS Grid**
-- - **JavaScript**
+- **JavaScript**
 
